@@ -47,7 +47,3 @@ REMARQUES IMPORTANTES
 - Les boutons sont générés automatiquement à partir des sections du fichier config.ini.
 - L’ordre d’affichage suit l’ordre numérique des sections (App1, App2, App3, etc.).
 - Les icônes sont automatiquement récupérées depuis les fichiers EXE ou LNK associés.
-
-SUPPORT
--------
-En cas de problème, suggestion ou amélioration, merci d’ouvrir une issue sur le repository.
